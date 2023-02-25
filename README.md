@@ -1,8 +1,7 @@
 - 👋 Hola, mi nombre es Edison Orozco. 
 
-Soy desarrollador de software y estudiante de ingeniería de sistemas, cuento con 4 años de experiencia en el sector, en los cuales he trabajado en su 
-gran mayoría con el lenguaje de programación Java creando aplicaciones robustas para diferentes empresas, con este lenguaje he 
-desarrollado tanto aplicaciones del lado del backend como del lado del frontend, aunque este lenguaje es mi mayor fortaleza, también me he sumergido en otras tecnologías 
-como lo son html, css, javascript y bases de datos con el motor PostgreSQL, me interesa aprender cada día mas, ya que, una de mis metas a corto
-plazo es convertirme en desarrollador web. También me gustaría aprender inglés, el cual es un idioma que estudio, 
-consumo y practico diariamente con el fin de mejorar, y bueno esta es mi corta presentación. 
+Soy ingeniero en sistemas, cuento con 5 años de experiencia en el área de desarrollo de software, en los cuales he trabajado en su gran mayoría con el lenguaje de programación Java creando aplicaciones robustas del lado del servidor Backend para diferentes empresas, entre otras tecnologías y lenguajes que manejo se encuentran Git, Javascript, phyton, React, SQL, Spring boot. 
+
+Actualmente también me desempeño en el área de DevOps creando pipelines de Integración y despliegue continuo CI/CD, aprovisionando servicios de AWS mediante infraestructura como Código y automatizando el despliegue de microservicios con docker y kubernetes. 
+
+En este perfil podrás encontrar ejemplos de aplicaciones y paginas desarrolladas en diferentes lenguajes, así como ejemplos de DevOps y despliegue de servicios de AWS con infraestructura como Código, cualquier aporte que genere valor es bienvenido ya siempre se puede aprender algo nuevo y mejorar el Código.
